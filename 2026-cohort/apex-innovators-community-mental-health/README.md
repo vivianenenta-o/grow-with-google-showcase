@@ -1,34 +1,34 @@
 # Community Mental Health Signposting Portal
 
-## Team
+## Team: Apex Innovators
 
-**Apex Innovators**
-
-### UN Sustainable Development Goal
-
-**SDG 3 — Good Health and Well-being**
+**UN Sustainable Development Goal:** SDG 3 — Good Health and Well-being
 
 ## Project Overview
 
-The Community Mental Health Signposting Portal is a digital solution designed to help early-career professionals experiencing workplace stress and burnout find relevant mental health support and wellness resources.
+The **Community Mental Health Signposting Portal** is a digital solution developed by **Apex Innovators** to help early-career professionals experiencing workplace stress and burnout find relevant mental health support and wellness resources.
 
-The portal aims to make mental health support easier to discover by providing tailored signposting to peer-to-peer support, mental wellness resources, and emergency support services.
+Our team developed **Escale**, a digital signposting portal designed to make mental health support easier to discover and navigate.
+
+**Live Portal:** [Escale — Find Your Way Back from Burnout](https://escale.ai.studio/)
 
 ## Problem Statement
 
-Early-career professionals experiencing burnout often struggle to identify accessible and appropriate mental health support.
+Early-career professionals experiencing workplace stress and burnout may struggle to identify accessible and appropriate mental health support.
 
-Workplace stress, limited awareness of available resources, and low utilization of Employee Assistance Programs (EAPs) can make it difficult for individuals to seek timely support.
+Limited awareness of available resources and low utilization of Employee Assistance Programs (EAPs) can make it difficult for individuals to seek timely support.
 
 ## Target Population
 
-The primary target population is **early-career professionals**, defined for this project as individuals with **0–10 years of work experience**.
+Our primary target population is **early-career professionals**, defined as individuals with **0–10 years of work experience**.
 
 ## Data Analysis
 
-A workplace mental health dataset containing **10,000 records** was analyzed to understand patterns related to workplace stress, burnout, mental health conditions, and access to Employee Assistance Programs (EAPs).
+We analyzed a workplace mental health dataset containing **10,000 records** to identify patterns related to stress, burnout, mental health conditions, and access to Employee Assistance Programs.
 
-The analysis focused on:
+A subgroup of **4,327 early-career professionals** was analyzed to align the data with our target population.
+
+### Variables Analyzed
 
 * Stress level
 * Industry
@@ -40,18 +40,14 @@ The analysis focused on:
 
 ### Key Findings
 
-* **51.9%** of records indicated that an Employee Assistance Program (EAP) was available.
-* **48.1%** indicated that an EAP was not available.
-* EAP utilization was approximately **32.1%**, indicating that availability does not necessarily translate into usage.
-* Higher burnout risk was observed among individuals experiencing more severe stress.
+* **51.9%** of records indicated that an EAP was available, while **48.1%** reported no EAP availability.
+* EAP utilization was approximately **32.1%**, showing that availability does not necessarily translate into usage.
+* Higher burnout-risk scores were observed among respondents experiencing more severe stress.
 * Technology, Finance & Banking, Consulting, and Legal showed relatively high average burnout-risk scores.
 * Burnout risk was higher among respondents reporting multiple mental health conditions.
-* Among the early-career subgroup, **4,327 records** were analyzed.
-* Within the early-career subgroup, EAP availability was reported for **2,241 records**, while **2,086 records** reported no EAP availability.
+* Among the early-career subgroup, **2,241** records reported EAP availability while **2,086** reported no EAP availability.
 
-## Data Analysis Tools
-
-The analysis was conducted using:
+### Data Analysis Tools
 
 * Microsoft Excel
 * Tableau
@@ -59,38 +55,67 @@ The analysis was conducted using:
 * Data cleaning and filtering
 * Descriptive statistics
 
-## Proposed Solution
+### Interactive Tableau Dashboard
 
-The Community Mental Health Signposting Portal is designed around a simple user journey:
+Our Tableau dashboard presents key findings from the workplace mental health analysis, including burnout risk, stress levels, industry, mental health conditions, EAP availability, and work model.
 
-**Mental Wellness Quiz → Tailored Results → Peer-to-Peer Support & Resources**
+**[View the Interactive Tableau Dashboard](https://public.tableau.com/views/CommunityMentalHealthSignpostingPortalDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)**
 
-Key proposed features include:
+## How the Data Informed Our Solution
 
-* A mental wellness quiz
-* Tailored recommendations based on user responses
-* A peer-to-peer support directory
-* A live chat/navigation feature
-* An emergency crisis support page
+The analysis highlighted gaps in access to and utilization of workplace mental health support.
+
+These findings informed the development of **Escale** by emphasizing:
+
+* Easier discovery of mental health resources
+* Tailored support based on user needs
+* Peer-to-peer support pathways
+* Awareness of available support services
+* Early intervention for workplace stress and burnout
+
+## Our Solution — Escale
+
+**Escale** is the digital mental health signposting portal developed by Apex Innovators.
+
+### Key Features
+
+* Mental wellness assessment/quiz
+* Tailored results
 * Mental health and wellness resources
-* An option for users to submit relevant resources
+* Peer-to-peer support directory
+* Navigation/support feature
+* Emergency and crisis-support information
+* Resource submission pathway
 
-## Recommendations
+### User Journey
 
-Based on the analysis, the project recommends:
+**Mental Wellness Assessment → Tailored Results → Support & Resources**
 
-1. Increasing awareness and accessibility of workplace mental health resources.
-2. Improving communication about available Employee Assistance Programs.
-3. Encouraging early-career professionals to seek support before stress develops into severe burnout.
-4. Providing easily accessible and tailored mental health resources.
-5. Strengthening peer-to-peer support and signposting pathways.
-6. Prioritizing workplace environments and industries where higher burnout risk is observed.
+**[Visit the Escale Portal](https://escale.ai.studio/)**
 
 ## Expected Impact
 
-The portal aims to reduce barriers to finding mental health support by providing a clear and accessible pathway from identifying mental wellness concerns to finding appropriate resources.
+Escale aims to reduce barriers to finding mental health support by providing a simple pathway from identifying mental wellness concerns to discovering relevant resources.
 
-It supports **SDG 3: Good Health and Well-being** by promoting mental health awareness, early support, and access to relevant wellness resources.
+The project supports **SDG 3: Good Health and Well-being** through:
+
+* Mental health awareness
+* Early support-seeking
+* Improved access to resources
+* Peer support
+* Easier navigation of mental health services
+
+## Future Ideas
+
+Future development of Escale could include:
+
+* Expanding the directory with more verified local mental health resources.
+* Adding more localized resources for Nigerian and African communities.
+* Improving personalization of recommendations.
+* Conducting user testing with early-career professionals.
+* Adding analytics to understand resource engagement.
+* Strengthening signposting to Employee Assistance Programs.
+* Expanding accessibility features.
 
 ## Project Team
 
@@ -104,8 +129,9 @@ It supports **SDG 3: Good Health and Well-being** by promoting mental health awa
 
 ## Project Status
 
-This project was developed as part of the **Grow with Google / Mentor Me Collective BUILD Stage**.
+**Grow with Google / Mentor Me Collective — BUILD Stage**
 
 **Team:** Apex Innovators
-**Focus:** Community Mental Health
+**Project:** Community Mental Health Signposting Portal
+**Product:** Escale
 **SDG:** Goal 3 — Good Health and Well-being
