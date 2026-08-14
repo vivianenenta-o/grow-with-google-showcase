@@ -104,7 +104,60 @@ The project supports **SDG 3: Good Health and Well-being** through:
 * Improved access to resources
 * Peer support
 * Easier navigation of mental health services
+  
+## Implementation Plan
 
+### Phase 1 — Research & Problem Definition
+
+- Review the assigned problem statement and SDG 3.
+- Define the target population as early-career professionals.
+- Identify relevant workplace mental health data.
+
+### Phase 2 — Research & Data Analysis
+
+- Clean and analyze the workplace mental health dataset.
+- Examine stress, burnout risk, mental health conditions, EAP availability and usage.
+- Develop the Tableau dashboard and identify key findings.
+- Use the findings to inform the solution.
+
+### Phase 3 — Solution Design & Development
+
+- Design the Escale user journey.
+- Develop the mental wellness assessment and tailored results experience.
+- Develop the mental health resource and peer-support pathways.
+- Build and test the Escale portal.
+
+### Phase 4 — Testing & Refinement
+
+- Review the portal as a cross-functional team.
+- Identify usability, accessibility, security and technical issues.
+- Refine the solution based on team feedback.
+
+### Phase 5 — Documentation & Submission
+
+- Finalize the README and project documentation.
+- Complete the research, solution and implementation summary.
+- Record the project walkthrough.
+- Submit the completed project through the team GitHub branch and pull request.
+
+### Resources
+
+- Workplace mental health dataset
+- Microsoft Excel
+- Tableau
+- Escale development environment
+- GitHub
+- Cross-functional team expertise in UX Design, IT Support, Cybersecurity, Data Analytics and Project Management
+
+### Risks & Mitigation
+
+| Risk | Mitigation |
+|---|---|
+| Limited access to mental health resources | Provide multiple signposting pathways and maintain a resource directory |
+| Low engagement with support services | Use simple navigation and tailored recommendations |
+| Outdated or inaccurate resources | Establish a process for reviewing and verifying resources |
+| Privacy concerns | Minimize collection of personally identifiable information and apply appropriate privacy practices |
+| Limited user testing | Conduct additional testing with members of the target population during future development |
 ## Future Ideas
 
 Future development of Escale could include:
