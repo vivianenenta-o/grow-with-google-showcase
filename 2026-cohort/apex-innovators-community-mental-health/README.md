@@ -77,6 +77,15 @@ These findings informed the development of **Escale** by emphasizing:
 
 **Escale** is the digital mental health signposting portal developed by Apex Innovators.
 
+
+## How to View the Project
+
+- Visit the Escale Portal:
+  https://escale.ai.studio/
+
+- View the Tableau Dashboard:
+  https://public.tableau.com/views/CommunityMentalHealthSignpostingPortalDashboard/Dashboard1
+  
 ### Key Features
 
 * Mental wellness assessment/quiz
@@ -126,7 +135,7 @@ The project supports **SDG 3: Good Health and Well-being** through:
 - Develop the mental wellness assessment and tailored results experience.
 - Develop the mental health resource and peer-support pathways.
 - Build and test the Escale portal.
-
+  
 ### Phase 4 — Testing & Refinement
 
 - Review the portal as a cross-functional team.
@@ -179,6 +188,13 @@ Future development of Escale could include:
 | Esther Omotayo-Omomule | Cybersecurity      |
 | Vivian Enenta          | Data Analytics     |
 | Nelson Mukhwana        | Project Management |
+
+
+## Project Walkthrough Video
+
+Video Link:
+To be added before final submission.
+
 
 ## Project Status
 
