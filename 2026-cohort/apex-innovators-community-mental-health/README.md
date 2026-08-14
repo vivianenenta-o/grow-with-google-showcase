@@ -193,7 +193,7 @@ Future development of Escale could include:
 ## Project Walkthrough Video
 
 Video Link:
-To be added before final submission.
+[https://drive.google.com/file/d/15NXnfV40oCVG6LdeInf4jzim0xeB8uOA/view?usp=drive_link](https://drive.google.com/file/d/15NXnfV40oCVG6LdeInf4jzim0xeB8uOA/view?usp=drive_link)
 
 
 ## Project Status
