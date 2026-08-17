@@ -77,6 +77,14 @@ These findings informed the development of **Escale** by emphasizing:
 
 **Escale** is the digital mental health signposting portal developed by Apex Innovators.
 
+## UX Design Prototype
+
+View the complete Escale UX/UI design on Figma:
+
+https://www.figma.com/design/P14cINxq5Kd5TBwmhJhxB6/Escale---Master-UI-Design?node-id=0-1&p=f
+
+Designer: Elsa Michaud
+
 
 ## How to View the Project
 
